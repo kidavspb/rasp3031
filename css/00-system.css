@@ -1,0 +1,221 @@
+﻿* {
+    font-family: Arial;
+}
+
+CODE,
+KBD,
+SAMP,
+TT,
+PRE {
+    font-family: Courier New;
+}
+
+CODE,
+KBD,
+SAMP,
+PRE {
+    color: #006699;
+    font-style: normal;
+}
+
+CITE {
+    font-family: Times New Roman;
+    color: #000099;
+}
+
+EM {
+    color: #FF0000;
+}
+
+EM CODE {
+    color: #CC3300;
+}
+
+INPUT[type=text],
+TEXTAREA,
+SELECT,
+OPTGROUP,
+OPTION {
+    font-family: Verdana;
+    font-size: 90%;
+    background-color: #FFFFF0;
+    color: #000066;
+    padding: 1px;
+    margin-right: 3pt;
+}
+
+INPUT[type=text],
+TEXTAREA,
+SELECT {
+    border: solid 1px #AAAAAA;
+}
+
+A IMG {
+    border: none;
+}
+
+NOBR {
+    white-space: nowrap;
+}
+
+HR {
+    border: solid 1px #CCCCCC;
+}
+
+H1,
+H2,
+H3,
+H4,
+H5,
+H6 {
+    color: #990000;
+}
+
+H1 {
+    font-size: 160%;
+}
+
+H2 {
+    font-size: 140%;
+}
+
+H3 {
+    font-size: 120%;
+}
+
+H4 {
+    font-size: 100%;
+}
+
+H5 {
+    font-size: 90%;
+}
+
+H6 {
+    font-size: 80%;
+}
+
+TABLE {
+    border-collapse: collapse;
+}
+
+TR {
+    vertical-align: top;
+}
+
+TH,
+TD {
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+
+A:link {
+    color: #0000FF;
+}
+
+A:visited {
+    color: #000099;
+}
+
+A:active,
+A:hover {
+    color: #FF0000;
+}
+
+IMG {
+    border: none;
+}
+
+IMG.left {
+    float: left;
+    margin-right: 6pt;
+}
+
+IMG.right {
+    float: right;
+    margin-left: 6pt;
+}
+
+H2 {
+    text-decoration: underline;
+}
+
+H3 {
+    padding: 3pt;
+    background-color: #FFEEEE;
+}
+
+H4 {
+    margin-left: 16pt;
+    margin-bottom: 6pt;
+    color: #000099;
+}
+
+DIV.rasp EM.up {
+    color: #FF0000;
+}
+
+DIV.rasp EM.dn {
+    color: #0000FF;
+}
+
+DIV.rasp B.up {
+    color: #FF0000;
+    font-weight: bold;
+}
+
+DIV.rasp B.dn {
+    color: #0000FF;
+    font-weight: bold;
+}
+
+DIV.rasp SPAN {
+    margin: 1pt 3pt 1pt 3pt;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+DIV.form {
+    padding: 6pt;
+    border: solid 2pt #999999;
+    background-color: #EEEEEE;
+}
+
+DIV.result {
+    margin: 12pt;
+}
+
+DIV.legend {
+    margin: 12pt;
+    font-size: 80%;
+}
+
+DIV.study {
+    margin: 6pt 0 6pt 32pt;
+    padding: 0;
+}
+
+DIV.study DIV {
+    margin: 0;
+    padding: 0;
+    color: #666666;
+}
+
+DIV.study DIV A:link {
+    color: #666666;
+}
+
+DIV.study DIV A:visited {
+    color: #666666;
+}
+
+DIV.study DIV A:active,
+DIV.study DIV A:hover {
+    color: #0000FF;
+}
+
+SPAN.preps,
+SPAN.groups {
+    font-size: 80%;
+}
